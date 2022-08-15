@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oopere aka Pere Martra
+- 👋 Hi, I’m @oopere aka Pere Martra | Tensorflow Certified Developer
 - 👀 I’m interested in AI,  Game Development, and AI in Game Development. 
 - 🌱 I’m currently learning, as usual. 
 - 📫 https://twitter.com/PereMartra
