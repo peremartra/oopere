@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pere Martra Deep Learning Specialist | Tensorflow Certified Developer | Microsoft Data Scientist Associate. 
-- 🌱 I work as AI specialist, prospecting new uses of AI in my area. 
+- 🌱 I work as AI specialist, prospecting new uses of AI, mainly in Financial Area.  
 - 🌱 I'm also collaborating with DeepLearning.ai as a Mentor in the Specialization: TensorFlow Advanced Techniques.
 - 🌱 I’m currently enrolled in the Micromaster in Data science By U.C. San Diego.  
 
